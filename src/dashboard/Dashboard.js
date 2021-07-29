@@ -44,7 +44,7 @@ const Dashboard = () => {
                   <span>Menu</span>
                 </li>
                 <li className="mm-active">
-                  <a className="has-arrow" href="#" aria-expanded="false">
+                  <a className="has-arrow"  aria-expanded="false">
                   
                     <img
                       src="img/icon/overview_32px.png"
@@ -56,40 +56,40 @@ const Dashboard = () => {
                 </li>
 
                 <li className="">
-                  <a className="has-arrow" href="#" aria-expanded="false">
+                  <a className="has-arrow"  aria-expanded="false">
                     <img src="img/icon/purchase_order_32px.png" alt="#" />
                     <span>Orders</span>
                   </a>
                 </li>
 
                 <li className="">
-                  <a className="has-arrow" href="#" aria-expanded="false">
+                  <a className="has-arrow"  aria-expanded="false">
                     <img src="img/icon/business_32px.png" alt="#" />
                     <span>Products</span>
                   </a>
                 </li>
 
                 <li className="">
-                  <a className="has-arrow" href="#" aria-expanded="false">
+                  <a className="has-arrow"  aria-expanded="false">
                     <img src="img/icon/settings_32px.png" alt="#" />
                     <span>Settings</span>
                   </a>
                 </li>
 
                 <li className="">
-                  <a className="has-arrow" href="#" aria-expanded="false">
+                  <a className="has-arrow"  aria-expanded="false">
                     <strong>Business</strong>
                   </a>
                 </li>
 
                 <li className="">
-                  <a className="has-arrow" href="#" aria-expanded="false">
+                  <a className="has-arrow"  aria-expanded="false">
                     <img src="img/icon/around_the_globe_32px.png" alt="" />
                     <span>Shipment</span>
                   </a>
                 </li>
                 <li className="">
-                  <a className="has-arrow" href="#" aria-expanded="false">
+                  <a className="has-arrow"  aria-expanded="false">
                     <img src="img/icon/user_groups_32px.png" alt="" />
                     <span>Employee</span>
                   </a>
@@ -266,7 +266,7 @@ const Dashboard = () => {
                 <li className="list-group-item">A third item</li>
               </ul>
               <div className="card-body">
-                <a href="#" className="card-link">
+                <a  className="card-link">
                   Card link
                 </a>
                 <a href="#" className="card-link">

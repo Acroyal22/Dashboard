@@ -122,28 +122,28 @@ const Dashboard = () => {
 
                   <div className="row">
                     <div className="column" style={{ background: "#F5F7FD" }}>
-                      <img src="/img/icon/market_square_32px.png" />
+                      <img src="/img/icon/market_square_32px.png" alt="#"  />
                       <span style={{ color: "green" }}> +24%</span>
                       <br />
                       <strong>$27,340.00</strong>
                       <p style={{ color: "black" }}>Total sales</p>
                     </div>
                     <div className="column" style={{ background: "#F5F7FD" }}>
-                      <img src="/img/icon/slice_32px.png" />
+                      <img src="/img/icon/slice_32px.png" alt="#"  />
                       <span style={{ color: "red" }}> -32%</span>
                       <br />
                       <strong>$27,340.00</strong>
                       <p style={{ color: "black" }}>Total expenses</p>
                     </div>
                     <div className="column" style={{ background: "#F5F7FD" }}>
-                      <img src="/img/icon/user_group_2_32px.png" />
+                      <img src="/img/icon/user_group_2_32px.png" alt="#" />
                       <span style={{ color: "green" }}> +48%</span>
                       <br />
                       <strong>$18,260.00</strong>
                       <p style={{ color: "black" }}>Total Visitors</p>
                     </div>
                     <div className="column" style={{ background: "#F5F7FD" }}>
-                      <img src="/img/icon/shopping_cart_32px.png" />
+                      <img src="/img/icon/shopping_cart_32px.png" alt="#"  />
                       <span style={{ color: "red" }}> -12%</span>
                       <br />
                       <strong>$11,340.00</strong>
@@ -191,7 +191,7 @@ const Dashboard = () => {
                               <img
                                 src="/img/icon/headset.png"
                                 style={{ height: "2rem", width: "40px" }}
-                              />
+                                alt="#"   />
                             </th>
                             <td>
                               Cowboy Hat <br />
@@ -214,7 +214,7 @@ const Dashboard = () => {
                             <img
                               src="/img/icon/samsung.png"
                               style={{ height: "3rem", width: "50px" }}
-                            />
+                              alt="#"  />
                             <td>
                               Smartphone
                               <br />

@@ -41,10 +41,10 @@ const Dashboard = () => {
               </div>
               <ul id="sidebar_menu">
                 <li className="side_menu_title">
-                  <span>Menu</span>
+                  <a href="https://formik.org/docs/overview">Menu</a>
                 </li>
                 <li className="mm-active">
-                  <a className="has-arrow"  aria-expanded="false">
+                  <a className="has-arrow"  aria-expanded="false" href="https://formik.org/docs/overview">
                   
                     <img
                       src="img/icon/overview_32px.png"
@@ -56,40 +56,40 @@ const Dashboard = () => {
                 </li>
 
                 <li className="">
-                  <a className="has-arrow"  aria-expanded="false">
+                  <a className="has-arrow"  aria-expanded="false" href="https://formik.org/docs/overview">
                     <img src="img/icon/purchase_order_32px.png" alt="#" />
                     <span>Orders</span>
                   </a>
                 </li>
 
                 <li className="">
-                  <a className="has-arrow"  aria-expanded="false">
+                  <a className="has-arrow"  aria-expanded="false" href="https://formik.org/docs/overview">
                     <img src="img/icon/business_32px.png" alt="#" />
                     <span>Products</span>
                   </a>
                 </li>
 
                 <li className="">
-                  <a className="has-arrow"  aria-expanded="false">
+                  <a className="has-arrow"  aria-expanded="false" href="https://formik.org/docs/overview">
                     <img src="img/icon/settings_32px.png" alt="#" />
                     <span>Settings</span>
                   </a>
                 </li>
 
                 <li className="">
-                  <a className="has-arrow"  aria-expanded="false">
+                  <a className="has-arrow"  aria-expanded="false" href="https://formik.org/docs/overview">
                     <strong>Business</strong>
                   </a>
                 </li>
 
                 <li className="">
-                  <a className="has-arrow"  aria-expanded="false">
+                  <a className="has-arrow"  aria-expanded="false" href="https://formik.org/docs/overview">
                     <img src="img/icon/around_the_globe_32px.png" alt="" />
                     <span>Shipment</span>
                   </a>
                 </li>
                 <li className="">
-                  <a className="has-arrow"  aria-expanded="false">
+                  <a className="has-arrow"  aria-expanded="false" href="https://formik.org/docs/overview">
                     <img src="img/icon/user_groups_32px.png" alt="" />
                     <span>Employee</span>
                   </a>

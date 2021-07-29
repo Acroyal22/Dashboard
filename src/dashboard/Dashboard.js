@@ -34,9 +34,9 @@ const Dashboard = () => {
           <div className="">
             <nav className="sidebar" style={{width:"13rem"}}>
               <div className="logo d-flex justify-content-between">
-                <a>
+                <p>
                   <img src="../img/icon/shopware_32px.png" style={{width:"50px"}} />
-                </a>
+                </p>
                 <strong className="side_menu_title">ShopWare</strong>
               </div>
               <ul id="sidebar_menu">

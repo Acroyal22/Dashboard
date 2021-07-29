@@ -35,7 +35,7 @@ const Dashboard = () => {
             <nav className="sidebar" style={{width:"13rem"}}>
               <div className="logo d-flex justify-content-between">
                 <p>
-                  <img src="../img/icon/shopware_32px.png" style={{width:"50px"}} />
+                  <img src="../img/icon/shopware_32px.png" style={{width:"50px"}} alt="#" />
                 </p>
                 <strong className="side_menu_title">ShopWare</strong>
               </div>
@@ -48,7 +48,7 @@ const Dashboard = () => {
                   
                     <img
                       src="img/icon/overview_32px.png"
-                      alt=""
+                      alt="#"
                       className="mm-active"
                     />
                     <span>Overview</span>
@@ -57,21 +57,21 @@ const Dashboard = () => {
 
                 <li className="">
                   <a className="has-arrow" href="#" aria-expanded="false">
-                    <img src="img/icon/purchase_order_32px.png" alt="" />
+                    <img src="img/icon/purchase_order_32px.png" alt="#" />
                     <span>Orders</span>
                   </a>
                 </li>
 
                 <li className="">
                   <a className="has-arrow" href="#" aria-expanded="false">
-                    <img src="img/icon/business_32px.png" alt="" />
+                    <img src="img/icon/business_32px.png" alt="#" />
                     <span>Products</span>
                   </a>
                 </li>
 
                 <li className="">
                   <a className="has-arrow" href="#" aria-expanded="false">
-                    <img src="img/icon/settings_32px.png" alt="" />
+                    <img src="img/icon/settings_32px.png" alt="#" />
                     <span>Settings</span>
                   </a>
                 </li>
@@ -334,6 +334,7 @@ const Dashboard = () => {
                         marginTop: "-7px",
                         marginLeft: "-13px",
                       }}
+                      alt="#" 
                     />
                     <strong
                       style={{
@@ -360,6 +361,7 @@ const Dashboard = () => {
                           marginTop: "-11px",
                           height: "25px",
                         }}
+                        alt="#" 
                       />
                     </p>
 
@@ -370,6 +372,7 @@ const Dashboard = () => {
                         marginTop: "-29px",
                         marginLeft: "126px",
                       }}
+                      alt="#" 
                     />
                     <strong
                       style={{
@@ -420,8 +423,10 @@ const Dashboard = () => {
                       height: "20px",
                       marginTop: "-9px",
                       marginLeft: "-21px",
+                      
                     }}
                     src="/img/icon/box_96px.png"
+                    alt="#" 
                   />
 
                   <div className="container">
@@ -468,6 +473,7 @@ const Dashboard = () => {
                               <img
                                 src="/img/icon/headset.png"
                                 style={{ height: "2rem", width: "40px" }}
+                                alt="#" 
                               />
                             </th>
                             <td style={{marginRight:"25px"}}>
@@ -483,6 +489,7 @@ const Dashboard = () => {
                             <img
                               src="/img/icon/samsung.png"
                               style={{ height: "3rem", width: "50px" }}
+                              alt="#" 
                             />
                             <td>
                               Smartphone
@@ -497,6 +504,7 @@ const Dashboard = () => {
                             <img
                               src="/img/icon/71GT+6XuISL._AC_UL1300_.jpg"
                               style={{ height: "40px", width: "30px",marginLeft:"15px" }}
+                              alt="#" 
                             />
                             <td>
                               Wristwatch
